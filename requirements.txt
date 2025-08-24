@@ -4,3 +4,4 @@ langchain
 openai
 qdrant-client
 pydantic
+langchain_community
